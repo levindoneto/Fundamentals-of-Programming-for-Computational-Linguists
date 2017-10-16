@@ -3,7 +3,8 @@
 	Matriculation Number: 3292080
 	Compilation:  javac ex24.java
     Execution:    java ex24
-
+	
+	2.4 Buzz
 	This is a simplified version of a popular game. We count from 1 to infinity. I say 1, you say
 	2, I say 3, etc. However, if the number you would say next is divisible by 5, you don't say the
 	number, but instead, you say \buzz". Here's an example:
