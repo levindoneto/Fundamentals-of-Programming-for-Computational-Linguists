@@ -1,5 +1,7 @@
 /*
-    Compilation:  javac ex11.java
+    Student: Levindo Gabriel Taschetto Neto
+	Matriculation Number: 3292080
+	Compilation:  javac ex11.java
     Execution:    java ex11
   
 	1.1 Numbers
