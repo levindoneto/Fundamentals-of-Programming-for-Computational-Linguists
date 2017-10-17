@@ -1,8 +1,8 @@
 /*
-    Student: Levindo Gabriel Taschetto Neto
+	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
 	Compilation:  javac ex42.java
-    Execution:    java ex42
+	Execution:    java ex42
 	
 	4.2 Array shifting
 	Write code that "shifts" an array by a given number of steps. For example, given the array
@@ -21,6 +21,7 @@
 
 public class ex42 {
     public static void main(String[] args) {
-		
+		String[] words = {"a", "book", "about", "aardvarks", "for", "the", "student", "by", "Prof.", "Smith"};
+		int n = 4;
     }
 }

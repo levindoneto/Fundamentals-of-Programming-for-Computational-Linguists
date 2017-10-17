@@ -1,8 +1,8 @@
 /*
-    Student: Levindo Gabriel Taschetto Neto
+	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
 	Compilation:  javac ex31.java
-    Execution:    java ex31
+	Execution:    java ex31
 	
 	3.1 Fizz-Buzz
 	An extension of the game is fizz-buzz. Here, we also have to replace every number that is divisible

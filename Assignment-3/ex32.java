@@ -1,8 +1,8 @@
 /*
-    Student: Levindo Gabriel Taschetto Neto
+	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
 	Compilation:  javac ex32.java
-    Execution:    java ex32
+	Execution:    java ex32
 	
 	3.2 Loops
 	a) Write a for loop to print the string "Hi!" 5 times.

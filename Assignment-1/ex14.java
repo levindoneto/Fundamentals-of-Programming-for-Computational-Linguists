@@ -1,8 +1,8 @@
 /*
-    Student: Levindo Gabriel Taschetto Neto
+	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
     Compilation:  javac ex14.java
-    Execution:    java ex14
+	Execution:    java ex14
   
 	1.4 Boolean operators
 	You own two dogs. You know that if both wag their tails, they are guilty of causing some trouble

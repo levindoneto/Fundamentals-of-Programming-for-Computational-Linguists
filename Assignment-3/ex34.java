@@ -1,8 +1,8 @@
 /*
-    Student: Levindo Gabriel Taschetto Neto
+	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
 	Compilation:  javac ex34.java
-    Execution:    java ex34
+	Execution:    java ex34
 	
 	3.4 Arrays and loops
 	a) For a given array

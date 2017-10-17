@@ -1,8 +1,8 @@
 /*
-    Student: Levindo Gabriel Taschetto Neto
+	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
     Compilation:  javac ex15.java
-    Execution:    java ex15
+	Execution:    java ex15
   
 	1.5 Number comparison
 	You are given the following variables:

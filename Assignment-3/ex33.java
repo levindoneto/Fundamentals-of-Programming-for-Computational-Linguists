@@ -1,8 +1,8 @@
 /*
-    Student: Levindo Gabriel Taschetto Neto
+	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
 	Compilation:  javac ex33.java
-    Execution:    java ex33
+	Execution:    java ex33
 	
 	3.3 Our first array
 	Copy the following array into a new program:
