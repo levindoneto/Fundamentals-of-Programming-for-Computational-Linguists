@@ -1,8 +1,8 @@
 /*
-    Student: Levindo Gabriel Taschetto Neto
+	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
 	Compilation:  javac ex24.java
-    Execution:    java ex24
+	Execution:    java ex24
 	
 	2.4 Buzz
 	This is a simplified version of a popular game. We count from 1 to infinity. I say 1, you say

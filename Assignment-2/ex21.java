@@ -1,8 +1,8 @@
 /*
-    Student: Levindo Gabriel Taschetto Neto
+	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
-    Compilation:  javac ex21.java
-    Execution:    java ex21
+	Compilation:  javac ex21.java
+	Execution:    java ex21
   
 	2.1 A First-grade problem
 	Mary, Peter, and Lisa want to buy a Java book. The book costs 29 Euros. Mary has 12 Euros,

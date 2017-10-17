@@ -1,8 +1,8 @@
 /*
-    Student: Levindo Gabriel Taschetto Neto
+	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
 	Compilation:  javac ex23.java
-    Execution:    java ex23
+	Execution:    java ex23
 
 	2.3 Loops
 	a) Declare a String variable containing "Hi!". Use a loop to print this string 7 times, i.e.,

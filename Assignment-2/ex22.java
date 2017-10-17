@@ -1,8 +1,8 @@
 /*
-    Student: Levindo Gabriel Taschetto Neto
+	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
 	Compilation:  javac ex22.java
-    Execution:    java ex22
+	Execution:    java ex22
   
 	2.2 Going to the cinema
 	Peter wants to go to the cinema. However, he's a very picky person. He will only go if

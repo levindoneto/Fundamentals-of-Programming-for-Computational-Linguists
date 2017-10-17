@@ -29,7 +29,7 @@ public class ex11 {
 		remainder = b % a;
 		
 		System.out.println("***Exercise 1.1 (a) - Numbers ***");
-        System.out.print("* Sum of a and b: ");
+		System.out.print("* Sum of a and b: ");
 		System.out.println(sum);
 		System.out.print("* Product of a and b: ");
 		System.out.println(product);
@@ -55,7 +55,7 @@ public class ex11 {
 		float f_remainder = b % a;
 		
 		System.out.println("***Exercise 1.1 - Numbers ***");
-        System.out.print("* Sum of a and b: ");
+		System.out.print("* Sum of a and b: ");
 		System.out.println(f_sum);
 		System.out.print("* Product of a and b: ");
 		System.out.println(f_product);

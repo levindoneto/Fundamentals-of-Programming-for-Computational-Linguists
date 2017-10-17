@@ -1,7 +1,7 @@
 /*
 	Student: Levindo Gabriel Taschetto Neto
 	Matriculation Number: 3292080
-    Compilation:  javac ex13.java
+	Compilation:  javac ex13.java
 	Execution:    java ex13
   
 	1.3 Type conversion
